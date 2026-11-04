@@ -35,6 +35,6 @@
 ### Statystyki GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TWOJ-USERNAME&show_icons=true&theme=radial&hide_border=true" alt="Statystyki Mateusza" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJ-USERNAME&layout=compact&theme=radial&hide_border=true" alt="Najczęściej używane języki" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mateuszmateja13&show_icons=true&theme=radial&hide_border=true" alt="Moje statystyki" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuszmateja13&layout=compact&theme=radial&hide_border=true" alt="Najczęściej używane języki" width="48%" />
 </p>
